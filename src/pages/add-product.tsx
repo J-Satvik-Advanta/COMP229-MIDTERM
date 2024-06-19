@@ -28,7 +28,7 @@ const AddProduct: React.FC = () => {
     <div className="container my-5">
       <div className="row justify-content-center">
         <div className="col-md-6">
-          <h2 className="mb-3 text-center">Add Product</h2>
+          <h2 className="mb-4 text-center">Add Product</h2>
           <form onSubmit={handleSubmit}>
             <div className="form-group mb-3 text-start">
               <label className="form-label">Name:</label>
